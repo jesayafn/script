@@ -1,6 +1,3 @@
-#Install Microk8s (Need Snapd)
-snap install microk8s --classic --channel=1.24/stable
-
 #Install kubectl
 apt update
 apt install -y apt-transport-https ca-certificates curl
